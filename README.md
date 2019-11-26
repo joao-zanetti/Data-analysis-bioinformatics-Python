@@ -1,8 +1,12 @@
 # Data-analysis-bioinformatics-Python
 Scientific Research that analyzes genome data (text files that describe and show the genome) <br/>
 Text archives that were used to analyze:<br/>
-schmidtea_mediterranea.gff3 :<br/>
-schmidtea_mediterranea.fasta :<br/>
+###schmidtea_mediterranea.gff3:<br/> 
+3821230 lines that describe  the start and end positions of regions, gene, exons and primes  of the other archive schmidtea_mediterranea.fasta<br/>
+###schmidtea_mediterranea.fasta:<br/> 
+15091651 lines wich show the nucleotide sequence separated for region of genome<br/> 
+
+the archives:
 https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing
 
 ## main.py:
