@@ -1,5 +1,9 @@
 # Data-analysis-bioinformatics-Python
 Scientific Research that analyzes genome data (text files that describe and show the genome) 
+Text archives that were analyzed:
+schmidtea_mediterranea.gff3 
+schmidtea_mediterranea.fasta
+https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing
 
 ## main.py:
 Call all the functions and static methods.
