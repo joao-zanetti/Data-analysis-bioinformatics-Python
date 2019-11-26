@@ -1,8 +1,8 @@
 # Data-analysis-bioinformatics-Python
-Scientific Research that analyzes genome data (text files that describe and show the genome) 
-Text archives that were analyzed:
-schmidtea_mediterranea.gff3 
-schmidtea_mediterranea.fasta
+Scientific Research that analyzes genome data (text files that describe and show the genome) <br/>
+Text archives that were used to analyze:<br/>
+schmidtea_mediterranea.gff3 :<br/>
+schmidtea_mediterranea.fasta :<br/>
 https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing
 
 ## main.py:
