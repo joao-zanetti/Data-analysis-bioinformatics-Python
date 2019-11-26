@@ -10,16 +10,17 @@ Calculates the proportion of each position of nucleotides, respective quantity o
 ### schmidtea_mediterranea.fasta:
 15091651 lines wich show the nucleotide sequence separated for region of genome<br/> 
 #### the files link:
-https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing
+https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing<br/> 
 
-## main.py:
+## The codes:
+#### main.py:
 Call all the functions and static methods.
 
-## reagff.py:
+#### reagff.py:
 Read the archive GFF,separate into different files: genome.csv,the genes.csv,exon.csv and introns.csv.<br/>
 Each one with their respectives positions,size,start,end,region,sinal of tape  in genome fasta (archive.fasta)
 
-## intronclass.py:
+#### intronclass.py:
 Read the intron.csv with the informations of introns (created by readgff.py).<br/>
 Create the intronfasta.csv with their respectives sequences (from .fasta archive).<br/>
 Find the not minimums and not minimums introns. (minimum  is the introns that appears 25% times compared with modal intron) <br/>
