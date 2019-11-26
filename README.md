@@ -27,3 +27,7 @@ Find the not minimums and not minimums introns. (minimum  is the introns that ap
 Creates other archives with the edges of introns (minimum, not minimum and  in intron) and their respectives sequences<br/>
 In intron is the 20 intron tip positions<br/>
 Calculate the proportion of each bases and the quantity of information (Shannon Entropy) for each position in all introns (minimum, not minimum and in intron)<br/>
+
+
+##Graphics results:
+https://drive.google.com/drive/folders/13ACjir3MdjtYjjHMTCIhiq22H8gfKYqF?usp=sharing
