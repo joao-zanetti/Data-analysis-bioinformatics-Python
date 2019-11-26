@@ -29,5 +29,5 @@ In intron is the 20 intron tip positions<br/>
 Calculate the proportion of each bases and the quantity of information (Shannon Entropy) for each position in all introns (minimum, not minimum and in intron)<br/>
 
 
-##Graphics results:
+## Graphics results link:
 https://drive.google.com/drive/folders/13ACjir3MdjtYjjHMTCIhiq22H8gfKYqF?usp=sharing
