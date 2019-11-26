@@ -2,15 +2,15 @@
 Scientific Research that analyzes genome data (text files that describe and show the genome) <br/>
 From these archives, extract,search and analyzes informations.<br/>
 Find the intron, exon,gene, primes and intron edges sequences and informations.<br/>
-Calculates the proportion of each position of nucleotides, respective quantity of informations (Shannon Entropy) and plot graphics<br/>
+Calculates the proportion of each position of nucleotides, respective quantity of informations (Shannon Entropy) and plot graphics<br/><br/> 
 
 ## Text archives that were used to analyze:
 #### schmidtea_mediterranea.gff3:
 3821230 lines that describe  the start and end positions of regions, gene, exons and primes  of the other archive schmidtea_mediterranea.fasta<br/>
-### schmidtea_mediterranea.fasta:
+#### schmidtea_mediterranea.fasta:
 15091651 lines wich show the nucleotide sequence separated for region of genome<br/> 
 #### the files link:
-https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing<br/> 
+https://drive.google.com/drive/folders/1VSzoSqiezh12fcjMK9AYbkOHmtNbdLXO?usp=sharing<br/><br/>  
 
 ## The codes:
 #### main.py:
