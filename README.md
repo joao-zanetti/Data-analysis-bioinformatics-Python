@@ -14,7 +14,7 @@ Create the intronfasta.csv with their respectives sequences (from .fasta archive
 Find the not minimums and not minimums introns. (minimum  is the introns that appears 25% times compared with modal intron) <br/>
 Creates other archives with the edges of introns (minimum, not minimum and  in intron) and their respectives sequences<br/>
 In intron is the 20 intron tip positions<br/>
-Calculate the proportion of each bases and the quantity of information for each position in all introns (minimum, not minimum and in intron)<br/>
+Calculate the proportion of each bases and the quantity of information (Shannon Entropy) for each position in all introns (minimum, not minimum and in intron)<br/>
 
 
 
